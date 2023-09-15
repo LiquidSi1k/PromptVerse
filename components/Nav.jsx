@@ -23,10 +23,10 @@ const Nav = () => {
     <nav className="flex-between w-full mb-16 pt-3">
       <Link href="/" className="flex gap-2 flex-center">
         <Image
-          src="/assets/images/PromptVerse-logo.png"
+          src="/assets/images/PromptLogo.svg"
           alt="PromptVerse Logo"
-          width={30}
-          height={30}
+          width={40}
+          height={40}
           className="object-contain"
         ></Image>
         <p className="logo_text">PromptVerse</p>
